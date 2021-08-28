@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ghoshmap", "ghoshmap\ghoshmap.csproj", "{FA9F9F56-71DE-4D8A-8735-886E72FF5C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA9F9F56-71DE-4D8A-8735-886E72FF5C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9F9F56-71DE-4D8A-8735-886E72FF5C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9F9F56-71DE-4D8A-8735-886E72FF5C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9F9F56-71DE-4D8A-8735-886E72FF5C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEFE8BDE-B4C7-46F9-9839-7B1985A1ACB0}
+	EndGlobalSection
+EndGlobal
